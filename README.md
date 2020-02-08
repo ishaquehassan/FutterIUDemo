@@ -1,4 +1,6 @@
-# sample_todo
+# Sample Shopping 
+
+![Screenshot 1](https://raw.githubusercontent.com/ishaquehassan/FutterIUDemo/master/pic1.png)
 
 A new Flutter application.
 
